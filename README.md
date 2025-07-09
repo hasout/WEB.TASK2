@@ -10,7 +10,6 @@ A simple PHP + MySQL web app that allows users to submit their name and age, dis
 - **MySQL** (Database)
 - **HTML5** (Structure)
 - **CSS3** (Styling)
-- **JavaScript (Fetch API)** (AJAX Toggle)
 
 ---
 
